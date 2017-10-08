@@ -1,0 +1,8 @@
+main: fr.discowzombie.myhomemenu.MyHomeMenu
+name: MyHomeMenu
+author: DiscowZombie
+version: 0.1
+commands:
+    home:
+        description:
+        aliases: [homes, h]
